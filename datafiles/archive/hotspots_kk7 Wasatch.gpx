@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://thermal.kk7.ch/">
+	<metadata>
+		<name>Hotspots all_all</name>
+		<desc>Thermal hotspot extraction for paragliders</desc>
+		<author>
+			<name>M. von Kaenel</name>
+			<email id="info" domain="kk7.ch"/>
+			<link href="https://thermal.kk7.ch"/>
+		</author>
+		<copyright author="M. von Kaenel">
+			<year>2024</year>
+			<license>https://creativecommons.org/licenses/by-nc-sa/4.0/</license>
+		</copyright>
+		<time>2024-03-01T00:00:00+00:00</time>
+		<bounds minlat="39.3656281" minlon="-112.2006233" maxlat="41.0806452" maxlon="-111.1188149"/>
+	</metadata>
+	<wpt lat="39.5209926" lon="-111.6736196">
+		<ele>2234</ele>
+		<name>T100</name>
+		<cmt>probability:100%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.9122143" lon="-111.8518052">
+		<ele>1779</ele>
+		<name>T100-1</name>
+		<cmt>probability:100%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.3010018" lon="-111.628644">
+		<ele>1926</ele>
+		<name>T99</name>
+		<cmt>probability:99%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.6113459" lon="-111.5400662">
+		<ele>2947</ele>
+		<name>T99-1</name>
+		<cmt>probability:99%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.7066669" lon="-111.7814236">
+		<ele>1843</ele>
+		<name>T98</name>
+		<cmt>probability:98%, importance:0</cmt>
+	</wpt>
+	<wpt lat="39.4979484" lon="-111.8384155">
+		<ele>2217</ele>
+		<name>T97</name>
+		<cmt>probability:97%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.4735939" lon="-111.8933475">
+		<ele>1561</ele>
+		<name>T95</name>
+		<cmt>probability:95%, importance:0</cmt>
+	</wpt>
+	<wpt lat="39.5855813" lon="-111.7024589">
+		<ele>2680</ele>
+		<name>T95-1</name>
+		<cmt>probability:95%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.2493998" lon="-111.6238375">
+		<ele>1735</ele>
+		<name>T94</name>
+		<cmt>probability:94%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.9477502" lon="-111.8651949">
+		<ele>1765</ele>
+		<name>T93</name>
+		<cmt>probability:93%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.005265" lon="-111.6300173">
+		<ele>2399</ele>
+		<name>T93-1</name>
+		<cmt>probability:93%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.6603256" lon="-111.7999632">
+		<ele>1680</ele>
+		<name>T92</name>
+		<cmt>probability:92%, importance:0</cmt>
+	</wpt>
+	<wpt lat="41.0304201" lon="-111.8421921">
+		<ele>2773</ele>
+		<name>T91</name>
+		<cmt>probability:91%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.0452265" lon="-111.6200609">
+		<ele>1990</ele>
+		<name>T90</name>
+		<cmt>probability:90%, importance:0</cmt>
+	</wpt>
+	<wpt lat="39.453958" lon="-112.2006233">
+		<ele>2225</ele>
+		<name>T90-1</name>
+		<cmt>probability:90%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.8937904" lon="-111.8456254">
+		<ele>1564</ele>
+		<name>T89</name>
+		<cmt>probability:89%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.8517336" lon="-111.8445954">
+		<ele>1917</ele>
+		<name>T87</name>
+		<cmt>probability:87%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.2766464" lon="-111.6255541">
+		<ele>2001</ele>
+		<name>T87-1</name>
+		<cmt>probability:87%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.6063939" lon="-111.7773037">
+		<ele>2097</ele>
+		<name>T86</name>
+		<cmt>probability:86%, importance:0</cmt>
+	</wpt>
+	<wpt lat="39.6482597" lon="-111.739538">
+		<ele>2892</ele>
+		<name>T86-1</name>
+		<cmt>probability:86%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.4869118" lon="-111.7072654">
+		<ele>2936</ele>
+		<name>T86-2</name>
+		<cmt>probability:86%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.4605345" lon="-111.8521485">
+		<ele>1963</ele>
+		<name>T85</name>
+		<cmt>probability:85%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.1145778" lon="-111.5476194">
+		<ele>2013</ele>
+		<name>T85-1</name>
+		<cmt>probability:85%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.5041429" lon="-111.7481211">
+		<ele>2470</ele>
+		<name>T85-2</name>
+		<cmt>probability:85%, importance:0</cmt>
+	</wpt>
+	<wpt lat="41.0081431" lon="-111.8765246">
+		<ele>1929</ele>
+		<name>T85-3</name>
+		<cmt>probability:85%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.4093162" lon="-111.7185952">
+		<ele>2529</ele>
+		<name>T85-4</name>
+		<cmt>probability:85%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.8932714" lon="-111.7906934">
+		<ele>2521</ele>
+		<name>T84</name>
+		<cmt>probability:84%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.0236713" lon="-111.6228075">
+		<ele>2244</ele>
+		<name>T81</name>
+		<cmt>probability:81%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.5542445" lon="-111.7937833">
+		<ele>1795</ele>
+		<name>T81-1</name>
+		<cmt>probability:81%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.7378906" lon="-111.7937833">
+		<ele>1908</ele>
+		<name>T81-2</name>
+		<cmt>probability:81%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.9871544" lon="-111.8720614">
+		<ele>1759</ele>
+		<name>T80</name>
+		<cmt>probability:80%, importance:0</cmt>
+	</wpt>
+	<wpt lat="39.5419111" lon="-111.6876959">
+		<ele>2491</ele>
+		<name>T80-1</name>
+		<cmt>probability:80%, importance:0</cmt>
+	</wpt>
+	<wpt lat="39.3656281" lon="-111.5232433">
+		<ele>2091</ele>
+		<name>T80-2</name>
+		<cmt>probability:80%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.8758806" lon="-111.833609">
+		<ele>1820</ele>
+		<name>T80-3</name>
+		<cmt>probability:80%, importance:0</cmt>
+	</wpt>
+	<wpt lat="41.0806452" lon="-111.8576417">
+		<ele>2755</ele>
+		<name>T79</name>
+		<cmt>probability:79%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.065724" lon="-111.6111345">
+		<ele>1905</ele>
+		<name>T79-1</name>
+		<cmt>probability:79%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.6894879" lon="-111.5963715">
+		<ele>2724</ele>
+		<name>T79-2</name>
+		<cmt>probability:79%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.2381312" lon="-111.5991181">
+		<ele>2730</ele>
+		<name>T79-3</name>
+		<cmt>probability:79%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.207985" lon="-111.6039246">
+		<ele>2186</ele>
+		<name>T78</name>
+		<cmt>probability:78%, importance:0</cmt>
+	</wpt>
+	<wpt lat="39.3725289" lon="-112.1975334">
+		<ele>2586</ele>
+		<name>T78-1</name>
+		<cmt>probability:78%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.3261337" lon="-111.671903">
+		<ele>1570</ele>
+		<name>T77</name>
+		<cmt>probability:77%, importance:0</cmt>
+	</wpt>
+	<wpt lat="39.7465287" lon="-111.7529276">
+		<ele>2012</ele>
+		<name>T77-1</name>
+		<cmt>probability:77%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.3883995" lon="-111.713102">
+		<ele>1988</ele>
+		<name>T76</name>
+		<cmt>probability:76%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.6842813" lon="-111.7742138">
+		<ele>1917</ele>
+		<name>T75</name>
+		<cmt>probability:75%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.831994" lon="-111.8772112">
+		<ele>1684</ele>
+		<name>T75-1</name>
+		<cmt>probability:75%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.7701399" lon="-111.8160994">
+		<ele>1690</ele>
+		<name>T74</name>
+		<cmt>probability:74%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.7943167" lon="-111.8205626">
+		<ele>1984</ele>
+		<name>T74-1</name>
+		<cmt>probability:74%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.3632908" lon="-111.6382571">
+		<ele>2720</ele>
+		<name>T73</name>
+		<cmt>probability:73%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.45531" lon="-111.726835">
+		<ele>2615</ele>
+		<name>T73-1</name>
+		<cmt>probability:73%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.3802925" lon="-111.6492435">
+		<ele>3103</ele>
+		<name>T72</name>
+		<cmt>probability:72%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.875621" lon="-111.7989332">
+		<ele>2487</ele>
+		<name>T71</name>
+		<cmt>probability:71%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.3080711" lon="-111.6052979">
+		<ele>2404</ele>
+		<name>T71-1</name>
+		<cmt>probability:71%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.9293362" lon="-111.8682848">
+		<ele>1400</ele>
+		<name>T71-2</name>
+		<cmt>probability:71%, importance:0</cmt>
+	</wpt>
+	<wpt lat="39.4385813" lon="-111.6602299">
+		<ele>2340</ele>
+		<name>T71-3</name>
+		<cmt>probability:71%, importance:0</cmt>
+	</wpt>
+	<wpt lat="41.0412968" lon="-111.8916309">
+		<ele>1878</ele>
+		<name>T71-4</name>
+		<cmt>probability:71%, importance:0</cmt>
+	</wpt>
+	<wpt lat="41.0278301" lon="-111.8706881">
+		<ele>2272</ele>
+		<name>T70</name>
+		<cmt>probability:70%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.6590234" lon="-111.7735271">
+		<ele>2668</ele>
+		<name>T70-1</name>
+		<cmt>probability:70%, importance:0</cmt>
+	</wpt>
+	<wpt lat="41.0174693" lon="-111.1188149">
+		<ele>2668</ele>
+		<name>T68</name>
+		<cmt>probability:68%, importance:0</cmt>
+	</wpt>
+	<wpt lat="39.7792539" lon="-111.7553309">
+		<ele>2864</ele>
+		<name>T68-1</name>
+		<cmt>probability:68%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.3593667" lon="-111.6684697">
+		<ele>2328</ele>
+		<name>T66</name>
+		<cmt>probability:66%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.0948829" lon="-111.5623823">
+		<ele>1906</ele>
+		<name>T64</name>
+		<cmt>probability:64%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.2879086" lon="-111.5908783">
+		<ele>2959</ele>
+		<name>T62</name>
+		<cmt>probability:62%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.4777723" lon="-111.8754946">
+		<ele>1750</ele>
+		<name>T85-5</name>
+		<cmt>probability:85%, importance:1</cmt>
+	</wpt>
+	<wpt lat="40.4803837" lon="-111.7271783">
+		<ele>2528</ele>
+		<name>T82</name>
+		<cmt>probability:82%, importance:1</cmt>
+	</wpt>
+	<wpt lat="39.995008" lon="-111.6416904">
+		<ele>2452</ele>
+		<name>T81-3</name>
+		<cmt>probability:81%, importance:1</cmt>
+	</wpt>
+	<wpt lat="39.5683812" lon="-111.6990256">
+		<ele>2461</ele>
+		<name>T77-2</name>
+		<cmt>probability:77%, importance:1</cmt>
+	</wpt>
+	<wpt lat="40.6006594" lon="-111.7570475">
+		<ele>2631</ele>
+		<name>T75-2</name>
+		<cmt>probability:75%, importance:1</cmt>
+	</wpt>
+	<wpt lat="40.5417226" lon="-111.779707">
+		<ele>2655</ele>
+		<name>T74-2</name>
+		<cmt>probability:74%, importance:1</cmt>
+	</wpt>
+	<wpt lat="40.750116" lon="-111.7848569">
+		<ele>2024</ele>
+		<name>T74-3</name>
+		<cmt>probability:74%, importance:1</cmt>
+	</wpt>
+	<wpt lat="40.9866361" lon="-111.8511186">
+		<ele>2338</ele>
+		<name>T68-2</name>
+		<cmt>probability:68%, importance:1</cmt>
+	</wpt>
+	<wpt lat="40.9703068" lon="-111.8665682">
+		<ele>1704</ele>
+		<name>T67</name>
+		<cmt>probability:67%, importance:1</cmt>
+	</wpt>
+	<wpt lat="40.3407896" lon="-111.6736196">
+		<ele>1740</ele>
+		<name>T67-1</name>
+		<cmt>probability:67%, importance:1</cmt>
+	</wpt>
+	<wpt lat="40.3748001" lon="-111.7000556">
+		<ele>1966</ele>
+		<name>T66-1</name>
+		<cmt>probability:66%, importance:1</cmt>
+	</wpt>
+	<wpt lat="40.5696328" lon="-111.7858868">
+		<ele>1780</ele>
+		<name>T65</name>
+		<cmt>probability:65%, importance:1</cmt>
+	</wpt>
+	<wpt lat="40.2315788" lon="-111.618001">
+		<ele>1995</ele>
+		<name>T63</name>
+		<cmt>probability:63%, importance:1</cmt>
+	</wpt>
+	<wpt lat="40.2999544" lon="-111.6447803">
+		<ele>1624</ele>
+		<name>T98-1</name>
+		<cmt>probability:98%, importance:2</cmt>
+	</wpt>
+	<wpt lat="39.5106634" lon="-111.6694997">
+		<ele>2266</ele>
+		<name>T94-1</name>
+		<cmt>probability:94%, importance:2</cmt>
+	</wpt>
+	<wpt lat="40.0481176" lon="-111.631734">
+		<ele>1538</ele>
+		<name>T86-3</name>
+		<cmt>probability:86%, importance:2</cmt>
+	</wpt>
+	<wpt lat="39.4968887" lon="-111.8542085">
+		<ele>1988</ele>
+		<name>T85-6</name>
+		<cmt>probability:85%, importance:2</cmt>
+	</wpt>
+	<wpt lat="40.8597836" lon="-111.8524919">
+		<ele>1689</ele>
+		<name>T84-1</name>
+		<cmt>probability:84%, importance:2</cmt>
+	</wpt>
+	<wpt lat="40.6090003" lon="-111.5534559">
+		<ele>3042</ele>
+		<name>T78-2</name>
+		<cmt>probability:78%, importance:2</cmt>
+	</wpt>
+	<wpt lat="40.7090091" lon="-111.7680339">
+		<ele>2256</ele>
+		<name>T73-2</name>
+		<cmt>probability:73%, importance:2</cmt>
+	</wpt>
+	<wpt lat="40.3549191" lon="-111.6303607">
+		<ele>2473</ele>
+		<name>T71-5</name>
+		<cmt>probability:71%, importance:2</cmt>
+	</wpt>
+	<wpt lat="40.2134909" lon="-111.5881317">
+		<ele>2867</ele>
+		<name>T70-2</name>
+		<cmt>probability:70%, importance:2</cmt>
+	</wpt>
+	<wpt lat="40.5983134" lon="-111.7862302">
+		<ele>1805</ele>
+		<name>T68-3</name>
+		<cmt>probability:68%, importance:2</cmt>
+	</wpt>
+	<wpt lat="40.4602733" lon="-111.7415979">
+		<ele>1957</ele>
+		<name>T65-1</name>
+		<cmt>probability:65%, importance:2</cmt>
+	</wpt>
+	<wpt lat="40.8356307" lon="-111.8545518">
+		<ele>1905</ele>
+		<name>T63-1</name>
+		<cmt>probability:63%, importance:2</cmt>
+	</wpt>
+	<wpt lat="40.1250794" lon="-111.5489927">
+		<ele>1775</ele>
+		<name>T62-1</name>
+		<cmt>probability:62%, importance:2</cmt>
+	</wpt>
+	<wpt lat="40.0996102" lon="-111.5517393">
+		<ele>2233</ele>
+		<name>T83</name>
+		<cmt>probability:83%, importance:3</cmt>
+	</wpt>
+	<wpt lat="41.0216138" lon="-111.886481">
+		<ele>1814</ele>
+		<name>T81-4</name>
+		<cmt>probability:81%, importance:3</cmt>
+	</wpt>
+	<wpt lat="40.2931462" lon="-111.6214342">
+		<ele>2107</ele>
+		<name>T81-5</name>
+		<cmt>probability:81%, importance:3</cmt>
+	</wpt>
+	<wpt lat="41.0141016" lon="-111.861075">
+		<ele>2338</ele>
+		<name>T78-3</name>
+		<cmt>probability:78%, importance:3</cmt>
+	</wpt>
+	<wpt lat="40.268264" lon="-111.6258974">
+		<ele>1814</ele>
+		<name>T77-3</name>
+		<cmt>probability:77%, importance:3</cmt>
+	</wpt>
+	<wpt lat="40.6683986" lon="-111.7954999">
+		<ele>1636</ele>
+		<name>T75-3</name>
+		<cmt>probability:75%, importance:3</cmt>
+	</wpt>
+	<wpt lat="40.7355493" lon="-111.7992765">
+		<ele>1831</ele>
+		<name>T75-4</name>
+		<cmt>probability:75%, importance:3</cmt>
+	</wpt>
+	<wpt lat="40.5119737" lon="-111.7440012">
+		<ele>2719</ele>
+		<name>T74-4</name>
+		<cmt>probability:74%, importance:3</cmt>
+	</wpt>
+	<wpt lat="40.6816779" lon="-111.763914">
+		<ele>2261</ele>
+		<name>T73-3</name>
+		<cmt>probability:73%, importance:3</cmt>
+	</wpt>
+	<wpt lat="40.9550106" lon="-111.8576417">
+		<ele>1872</ele>
+		<name>T71-6</name>
+		<cmt>probability:71%, importance:3</cmt>
+	</wpt>
+	<wpt lat="40.5529403" lon="-111.7718105">
+		<ele>2504</ele>
+		<name>T66-2</name>
+		<cmt>probability:66%, importance:3</cmt>
+	</wpt>
+	<wpt lat="40.9207758" lon="-111.8562684">
+		<ele>1734</ele>
+		<name>T95-2</name>
+		<cmt>probability:95%, importance:4</cmt>
+	</wpt>
+	<wpt lat="40.6999" lon="-111.7876035">
+		<ele>1663</ele>
+		<name>T90-2</name>
+		<cmt>probability:90%, importance:4</cmt>
+	</wpt>
+	<wpt lat="40.2397037" lon="-111.6248675">
+		<ele>1710</ele>
+		<name>T87-2</name>
+		<cmt>probability:87%, importance:4</cmt>
+	</wpt>
+	<wpt lat="40.2189965" lon="-111.6059846">
+		<ele>2195</ele>
+		<name>T78-4</name>
+		<cmt>probability:78%, importance:4</cmt>
+	</wpt>
+	<wpt lat="40.0594178" lon="-111.6217775">
+		<ele>1738</ele>
+		<name>T75-5</name>
+		<cmt>probability:75%, importance:4</cmt>
+	</wpt>
+	<wpt lat="40.8732846" lon="-111.8439087">
+		<ele>1617</ele>
+		<name>T75-6</name>
+		<cmt>probability:75%, importance:4</cmt>
+	</wpt>
+	<wpt lat="40.8753614" lon="-111.8099196">
+		<ele>2263</ele>
+		<name>T75-7</name>
+		<cmt>probability:75%, importance:4</cmt>
+	</wpt>
+	<wpt lat="40.849656" lon="-111.8339523">
+		<ele>2048</ele>
+		<name>T71-7</name>
+		<cmt>probability:71%, importance:4</cmt>
+	</wpt>
+	<wpt lat="40.3012636" lon="-111.5991181">
+		<ele>2597</ele>
+		<name>T69</name>
+		<cmt>probability:69%, importance:4</cmt>
+	</wpt>
+	<wpt lat="39.5143715" lon="-111.6804861">
+		<ele>2405</ele>
+		<name>T89-1</name>
+		<cmt>probability:89%, importance:5</cmt>
+	</wpt>
+	<wpt lat="40.6110853" lon="-111.7862302">
+		<ele>1663</ele>
+		<name>T82-1</name>
+		<cmt>probability:82%, importance:5</cmt>
+	</wpt>
+	<wpt lat="40.0320839" lon="-111.6245241">
+		<ele>1934</ele>
+		<name>T77-4</name>
+		<cmt>probability:77%, importance:5</cmt>
+	</wpt>
+	<wpt lat="41.0096976" lon="-111.8871677">
+		<ele>1613</ele>
+		<name>T75-8</name>
+		<cmt>probability:75%, importance:5</cmt>
+	</wpt>
+	<wpt lat="40.1053875" lon="-111.5637556">
+		<ele>1623</ele>
+		<name>T73-4</name>
+		<cmt>probability:73%, importance:5</cmt>
+	</wpt>
+	<wpt lat="40.4009503" lon="-111.7172219">
+		<ele>2339</ele>
+		<name>T71-8</name>
+		<cmt>probability:71%, importance:5</cmt>
+	</wpt>
+	<wpt lat="40.2569985" lon="-111.618001">
+		<ele>2146</ele>
+		<name>T65-2</name>
+		<cmt>probability:65%, importance:5</cmt>
+	</wpt>
+	<wpt lat="39.4915901" lon="-111.8456254">
+		<ele>2184</ele>
+		<name>T93-2</name>
+		<cmt>probability:93%, importance:6</cmt>
+	</wpt>
+	<wpt lat="40.9376361" lon="-111.862105">
+		<ele>1763</ele>
+		<name>T75-9</name>
+		<cmt>probability:75%, importance:6</cmt>
+	</wpt>
+	<wpt lat="40.6561585" lon="-111.79344">
+		<ele>2040</ele>
+		<name>T66-3</name>
+		<cmt>probability:66%, importance:6</cmt>
+	</wpt>
+	<wpt lat="40.9609739" lon="-111.8651949">
+		<ele>1718</ele>
+		<name>T78-5</name>
+		<cmt>probability:78%, importance:7</cmt>
+	</wpt>
+	<wpt lat="40.8823702" lon="-111.8411621">
+		<ele>1643</ele>
+		<name>T76-1</name>
+		<cmt>probability:76%, importance:7</cmt>
+	</wpt>
+	<wpt lat="40.9140305" lon="-111.8624483">
+		<ele>1456</ele>
+		<name>T75-10</name>
+		<cmt>probability:75%, importance:7</cmt>
+	</wpt>
+	<wpt lat="40.3062384" lon="-111.6372272">
+		<ele>1774</ele>
+		<name>T57</name>
+		<cmt>probability:57%, importance:7</cmt>
+	</wpt>
+	<wpt lat="40.5555487" lon="-111.7824536">
+		<ele>2121</ele>
+		<name>T76-2</name>
+		<cmt>probability:76%, importance:8</cmt>
+	</wpt>
+	<wpt lat="40.8751018" lon="-111.8226226">
+		<ele>2018</ele>
+		<name>T74-5</name>
+		<cmt>probability:74%, importance:8</cmt>
+	</wpt>
+	<wpt lat="40.6024841" lon="-111.7676906">
+		<ele>2388</ele>
+		<name>T64-1</name>
+		<cmt>probability:64%, importance:8</cmt>
+	</wpt>
+	<wpt lat="40.668659" lon="-111.7793637">
+		<ele>1885</ele>
+		<name>T63-2</name>
+		<cmt>probability:63%, importance:8</cmt>
+	</wpt>
+	<wpt lat="40.289218" lon="-111.6310473">
+		<ele>1790</ele>
+		<name>T89-2</name>
+		<cmt>probability:89%, importance:9</cmt>
+	</wpt>
+	<wpt lat="40.9290768" lon="-111.8572984">
+		<ele>1700</ele>
+		<name>T72-1</name>
+		<cmt>probability:72%, importance:10</cmt>
+	</wpt>
+	<wpt lat="40.6629299" lon="-111.7872601">
+		<ele>2068</ele>
+		<name>T89-3</name>
+		<cmt>probability:89%, importance:13</cmt>
+	</wpt>
+</gpx>

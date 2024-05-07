@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://thermal.kk7.ch/">
+	<metadata>
+		<name>Hotspots all_all</name>
+		<desc>Thermal hotspot extraction for paragliders</desc>
+		<author>
+			<name>M. von Kaenel</name>
+			<email id="info" domain="kk7.ch"/>
+			<link href="https://thermal.kk7.ch"/>
+		</author>
+		<copyright author="M. von Kaenel">
+			<year>2024</year>
+			<license>https://creativecommons.org/licenses/by-nc-sa/4.0/</license>
+		</copyright>
+		<time>2024-03-01T00:00:00+00:00</time>
+		<bounds minlat="36.9959719" minlon="-113.3047471" maxlat="37.298361" maxlon="-113.2683546"/>
+	</metadata>
+	<wpt lat="37.298361" lon="-113.2683546">
+		<ele>1662</ele>
+		<name>T86</name>
+		<cmt>probability:86%, importance:0</cmt>
+	</wpt>
+	<wpt lat="37.1094055" lon="-113.3016572">
+		<ele>1229</ele>
+		<name>T78</name>
+		<cmt>probability:78%, importance:0</cmt>
+	</wpt>
+	<wpt lat="36.9959719" lon="-113.3047471">
+		<ele>1145</ele>
+		<name>T77</name>
+		<cmt>probability:77%, importance:0</cmt>
+	</wpt>
+	<wpt lat="37.0916071" lon="-113.3044038">
+		<ele>1276</ele>
+		<name>T69</name>
+		<cmt>probability:69%, importance:1</cmt>
+	</wpt>
+	<wpt lat="37.1198088" lon="-113.3013138">
+		<ele>1231</ele>
+		<name>T71</name>
+		<cmt>probability:71%, importance:2</cmt>
+	</wpt>
+</gpx>

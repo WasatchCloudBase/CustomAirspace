@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://thermal.kk7.ch/">
+	<metadata>
+		<name>Hotspots all_all</name>
+		<desc>Thermal hotspot extraction for paragliders</desc>
+		<author>
+			<name>M. von Kaenel</name>
+			<email id="info" domain="kk7.ch"/>
+			<link href="https://thermal.kk7.ch"/>
+		</author>
+		<copyright author="M. von Kaenel">
+			<year>2024</year>
+			<license>https://creativecommons.org/licenses/by-nc-sa/4.0/</license>
+		</copyright>
+		<time>2024-03-01T00:00:00+00:00</time>
+		<bounds minlat="39.3656281" minlon="-112.2006233" maxlat="41.0806452" maxlon="-111.1188149"/>
+	</metadata>
+	<wpt lat="39.5209926" lon="-111.6736196">
+		<ele>2234</ele>
+		<name>T100</name>
+		<cmt>probability:100%, importance:0</cmt>
+	</wpt>
+	<wpt lat="40.4777723" lon="-111.8754946">
+		<ele>1750</ele>
+		<name>T85-5</name>
+		<cmt>probability:85%, importance:1</cmt>
+	</wpt>
+	<wpt lat="40.2999544" lon="-111.6447803">
+		<ele>1624</ele>
+		<name>T98-1</name>
+		<cmt>probability:98%, importance:2</cmt>
+	</wpt>
+	<wpt lat="40.0996102" lon="-111.5517393">
+		<ele>2233</ele>
+		<name>T83</name>
+		<cmt>probability:83%, importance:3</cmt>
+	</wpt>
+	<wpt lat="40.9207758" lon="-111.8562684">
+		<ele>1734</ele>
+		<name>T95-2</name>
+		<cmt>probability:95%, importance:4</cmt>
+	</wpt>
+	<wpt lat="39.5143715" lon="-111.6804861">
+		<ele>2405</ele>
+		<name>T89-1</name>
+		<cmt>probability:89%, importance:5</cmt>
+	</wpt>
+	<wpt lat="39.4915901" lon="-111.8456254">
+		<ele>2184</ele>
+		<name>T93-2</name>
+		<cmt>probability:93%, importance:6</cmt>
+	</wpt>
+	<wpt lat="40.9609739" lon="-111.8651949">
+		<ele>1718</ele>
+		<name>T78-5</name>
+		<cmt>probability:78%, importance:7</cmt>
+	</wpt>
+	<wpt lat="40.5555487" lon="-111.7824536">
+		<ele>2121</ele>
+		<name>T76-2</name>
+		<cmt>probability:76%, importance:8</cmt>
+	</wpt>
+	<wpt lat="40.289218" lon="-111.6310473">
+		<ele>1790</ele>
+		<name>T89-2</name>
+		<cmt>probability:89%, importance:9</cmt>
+	</wpt>
+	<wpt lat="40.9290768" lon="-111.8572984">
+		<ele>1700</ele>
+		<name>T72-1</name>
+		<cmt>probability:72%, importance:10</cmt>
+	</wpt>
+	<wpt lat="40.6629299" lon="-111.7872601">
+		<ele>2068</ele>
+		<name>T89-3</name>
+		<cmt>probability:89%, importance:13</cmt>
+	</wpt>
+</gpx>
