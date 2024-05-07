@@ -8,11 +8,13 @@ The custom airspace is used to identify:
 
 See the header for the custom airspace text file for info on updating FlySkyHy airspace settings.
 
-This script was developed in Microsoft VSS on Windows using Python 3.10.11 (although the script is pretty basic; any recent version of Python is likely to work fine).
+This script was developed in Microsoft Visual Studio Code on Windows using Python 3.10.11 
+(although the script is pretty basic; any recent version of Python is likely to work fine).
+
 This script uses the following libraries that may need to be installed via pip:
-   shutil
-   pathlib
-   lxml
+ - shutil
+ - pathlib
+ - lxml
 
 The script has variables to specify the source, archive, and destination file locations.  These will need to be changed for your file location.
 
