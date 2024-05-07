@@ -8,6 +8,7 @@ The custom airspace is used to identify:
 
 See the header for the custom airspace text file for info on updating FlySkyHy airspace settings.
 
+# Development Information
 This script was developed in Microsoft Visual Studio Code on Windows using Python 3.10.11 
 (although the script is pretty basic; any recent version of Python is likely to work fine).
 
@@ -18,6 +19,7 @@ This script uses the following libraries that may need to be installed via pip:
 
 The script has variables to specify the source, archive, and destination file locations.  These will need to be changed for your file location.
 
+# Creating a source file for thermal hot spots
 To extract thermal hot spots from https://thermal.kk7.ch:
  - Pan/zoom until the area you want to extract is visible on the screen
  - Change settings (upper right corner) to disable thermals and show hotspots (not necessary, but helpful to see what will be extracted)
@@ -25,6 +27,7 @@ To extract thermal hot spots from https://thermal.kk7.ch:
  - Scroll down to "Download Hotspots"
  - From the "Download currently visible hotspots" dropdown, select "GPS Exchange format (GPX)
 
+# Creating a source file for LZ/DNL areas
 To create a polygon for a LZ/DNL area:
  - Open Google Earth Pro
  - Pan/zoom to the desired area
