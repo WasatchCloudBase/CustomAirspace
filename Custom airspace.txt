@@ -1,12 +1,13 @@
 * Custom airspace file for FlySkyHy
 *
 * Contents:
-*   Utah - Various landing zones
-*   Oregon - Woodrat landing zones and Do Not Land areas (2022)
-*   Colorado - Various LZs and Do Not Land areas (based on 6/8/22 file)
-*   California - Santa Barbara Do Not Land areas (2022)
-*   Washington - Chelan landing zones
-*   Thermal hot spots in Utah and Chelan (downloaded from https://thermal.kk7.ch/ on 5/5/2024)
+* Location   	LZ/DNL areas	     Thermal hot spots
+* ------------ 	-------------------  -------------------
+* Utah       	Yes                  5/5/2024 extract from https://thermal.kk7.ch
+* Oregon     	Yes (2022 file)	     No
+* Colorado   	Yes (6/8/2022 file)  No
+* Santa Barbara	Yes (2022 file)      No
+* Chelan, Wa	Yes                  5/5/2024 extract from https://thermal.kk7.ch
 *
 * Airspace designations in this file:
 *   Code  Type   			 	Usage in this file		Color to set in FlySkyHy
