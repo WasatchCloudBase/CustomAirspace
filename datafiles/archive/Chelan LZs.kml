@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Chelan LZs.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Chelan LZs</name>
+		<open>1</open>
+		<Placemark>
+			<name>Almira</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-118.9441050953895,47.70678097303077,0 -118.9422699295556,47.70682113257462,0 -118.9423064521263,47.70755480315239,0 -118.9441161320311,47.70756137653322,0 -118.9441050953895,47.70678097303077,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Badgrn</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.1730132247058,47.56220891703448,0 -120.17214010411,47.56196520296592,0 -120.1720857145563,47.56116992930717,0 -120.1714116244756,47.56106303448198,0 -120.170949249038,47.56223543155712,0 -120.1728971682328,47.562824889867,0 -120.1730132247058,47.56220891703448,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Badgrn power lines DNL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.170708779234,47.56074938657489,0 -120.1730025689893,47.56119339771846,0 -120.1730053669398,47.56116436209007,0 -120.1707273306417,47.56073228498941,0 -120.170708779234,47.56074938657489,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Brewap</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.7282748409192,48.10392467148094,0 -119.7113008804568,48.1043938176981,0 -119.7112558238116,48.10518932542307,0 -119.7284137956331,48.10471058437184,0 -119.7282748409192,48.10392467148094,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Brewst</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.7855995535512,48.09362977536222,0 -119.785604962471,48.09331221228765,0 -119.7865209499229,48.09273775089667,0 -119.7853860439026,48.09205738920887,0 -119.7839190875096,48.09271977320612,0 -119.7845839900159,48.0936021641393,0 -119.7855995535512,48.09362977536222,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Brewst power lines DNL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.7864371284608,48.09124112272931,0 -119.7868553646761,48.09271763195409,0 -119.7868725979453,48.09466015137777,0 -119.7869767195114,48.09461502710654,0 -119.7869613746236,48.09269270933891,0 -119.7864711398624,48.09123369802105,0 -119.7864371284608,48.09124112272931,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bridpt</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.6522817506079,48.003713543431,0 -119.6531713891864,48.00246552635349,0 -119.6504438802734,48.00158558422699,0 -119.6506438793674,48.00312618503028,0 -119.6522817506079,48.003713543431,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Cashme</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.4667360032411,47.52357113263589,0 -120.4653629240185,47.52335717691538,0 -120.46533042043,47.52411877883815,0 -120.4669722316692,47.52459877664019,0 -120.4667360032411,47.52357113263589,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Chelan Airport</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.9480476253902,47.86335538607295,0 -119.9458123646388,47.8648086421251,0 -119.9459094000963,47.86781438954355,0 -119.946713848142,47.86785580423114,0 -119.9467160936152,47.86718858415214,0 -119.9483598527372,47.86709340903683,0 -119.9480476253902,47.86335538607295,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Coulee</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.2431801558453,47.6137623757713,0 -119.2428099265559,47.61883220962367,0 -119.255961506921,47.61887997483589,0 -119.2559128349759,47.61375004933346,0 -119.2431801558453,47.6137623757713,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Coulee power lines DNL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.2562443230272,47.61225115136193,0 -119.2431840650256,47.61221780331718,0 -119.2431436491698,47.6124747532029,0 -119.2563328795904,47.61255367859052,0 -119.2562443230272,47.61225115136193,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CoulLZ</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.2857865852108,47.61765051788429,0 -119.2859213418945,47.61620060039163,0 -119.2829952054759,47.6162381557642,0 -119.2830634609859,47.61889358398986,0 -119.2857865852108,47.61765051788429,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Coullz power lines DNL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.2863365850953,47.61622343883395,0 -119.2827061388862,47.61628879126428,0 -119.2826984255217,47.61892496048354,0 -119.2827901573106,47.61892471664568,0 -119.2828121019414,47.61630403398132,0 -119.2863858602689,47.61628525335298,0 -119.2863365850953,47.61622343883395,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Crestn</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-118.5162320436462,47.75722068282765,0 -118.5109528409192,47.75808850151689,0 -118.5136022727021,47.7587571491073,0 -118.5134247485086,47.76018684990982,0 -118.5163706509017,47.75938862221327,0 -118.5162320436462,47.75722068282765,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Davprt power lines DNL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-118.1729205816703,47.65003956598666,0 -118.1634332487318,47.65007534794574,0 -118.1633928132493,47.6502310412157,0 -118.1729141757874,47.65014692133445,0 -118.1729205816703,47.65003956598666,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Davrpt</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-118.1634533064463,47.65024329449498,0 -118.1662804985103,47.65645316900296,0 -118.1732728529619,47.65388167315874,0 -118.1728357176327,47.65015741661099,0 -118.1634533064463,47.65024329449498,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Deary</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-116.5578567087482,46.79701927237572,0 -116.558292523556,46.79702192356779,0 -116.5582725376099,46.79736858733635,0 -116.5584636036828,46.79741362359242,0 -116.5588019620997,46.79707600328864,0 -116.558573079077,46.79661401683851,0 -116.5570977063908,46.79659510548633,0 -116.5571891017066,46.79779208594422,0 -116.5578204652479,46.79780742151814,0 -116.5578567087482,46.79701927237572,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Dougls</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.0132827692259,47.62688356064328,0 -120.013751048687,47.6225005197133,0 -120.0072712082042,47.62206959928473,0 -120.0074769937147,47.6261802958001,0 -120.0132827692259,47.62688356064328,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Dougls power lines DNL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.0140760393289,47.62247330819982,0 -120.0070830894882,47.62207276543968,0 -120.0070957204795,47.62217519061677,0 -120.0141451085153,47.62259160933559,0 -120.0140760393289,47.62247330819982,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Drglz</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.2023873957101,47.70593002174918,0 -120.2029270366193,47.70573684067344,0 -120.2028110682827,47.70527286737003,0 -120.202351067626,47.70532115521191,0 -120.2020096834941,47.70523193055219,0 -120.2018273891264,47.70535581922972,0 -120.2023873957101,47.70593002174918,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Dryfal</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.3330845827205,47.62596755886923,0 -119.3333020030918,47.62533087353237,0 -119.3322084541894,47.62505407994005,0 -119.3292381382198,47.62573326924181,0 -119.331464634775,47.6262716007891,0 -119.3334156738495,47.62648176873105,0 -119.3330845827205,47.62596755886923,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Dryfal power lines DNL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.3338307031125,47.62659792065137,0 -119.3342748638788,47.62471431393897,0 -119.3341976179231,47.62470315462226,0 -119.3337519024806,47.6265973384905,0 -119.3338307031125,47.62659792065137,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Entlz</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.2054972524236,47.67721783020069,0 -120.2051267240732,47.67712411306744,0 -120.2049453654953,47.67749389879051,0 -120.2053120551992,47.67763042907406,0 -120.2054972524236,47.67721783020069,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Farmer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.8169505448154,47.6144873195022,0 -119.8166044384656,47.61137380375463,0 -119.8103720468187,47.61133430597877,0 -119.8103252516053,47.61452284245894,0 -119.8169505448154,47.6144873195022,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Farmer power lines DNL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.8127946405946,47.61080812821278,0 -119.8131290854893,47.61236064338414,0 -119.8134782346001,47.61315559156181,0 -119.8135548611004,47.61593825867845,0 -119.813629508694,47.61581734876355,0 -119.8135807823101,47.61310186974889,0 -119.8131998507954,47.61232732317465,0 -119.8128545206783,47.61080470344155,0 -119.8127946405946,47.61080812821278,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Harrtn</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-118.2513819655376,47.47964954985001,0 -118.2498930919648,47.47961444317987,0 -118.2498059249216,47.47856003371012,0 -118.2479037662957,47.47859324495216,0 -118.2472303953046,47.478863290851,0 -118.2468170305683,47.48086461104285,0 -118.2513071638342,47.48087223218475,0 -118.2513819655376,47.47964954985001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Hartln</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.1155909186193,47.68710368701054,0 -119.1160095042127,47.68497782657081,0 -119.1093471976995,47.68495900689359,0 -119.109161872898,47.68736232995889,0 -119.1155909186193,47.68710368701054,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Lonepn</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.8772445076703,47.79863349825689,0 -119.8707529426997,47.79889050441162,0 -119.8706579337159,47.80435140988268,0 -119.8773031758254,47.80470084629449,0 -119.8772445076703,47.79863349825689,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Lonepn power lines DNL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.8822793144855,47.80123641305217,0 -119.8705752058988,47.80881782721536,0 -119.8717737042711,47.80938271193834,0 -119.8829629989959,47.80187282090136,0 -119.8822793144855,47.80123641305217,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Lvnwth</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.6706627256841,47.60094042377721,0 -120.6687983095892,47.60095913739251,0 -120.6688620196693,47.60239942366803,0 -120.6705631564825,47.60244481612831,0 -120.6706627256841,47.60094042377721,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Lvnwth power lines DNL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.6711837579619,47.60258562434221,0 -120.6687711720672,47.60259429907732,0 -120.6687134776585,47.60101337243982,0 -120.6686460498045,47.60102599861388,0 -120.6686905189875,47.60263904506704,0 -120.6711996108336,47.60264404794181,0 -120.6711837579619,47.60258562434221,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Mansfl</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.6425101635609,47.8206103591125,0 -119.648478054857,47.82069733034537,0 -119.6485225690292,47.81721602132922,0 -119.6426040776541,47.81712403014672,0 -119.6425101635609,47.8206103591125,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Mazama</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.4062798252288,48.5978181405068,0 -120.4076410503914,48.59742394851158,0 -120.4074302057654,48.59638103279688,0 -120.4054262071215,48.59553959891152,0 -120.4042726957441,48.5958105108289,0 -120.4023182985822,48.5947216554268,0 -120.3996076916032,48.5925567526185,0 -120.396017926018,48.59271231054826,0 -120.3983234815381,48.59519685563278,0 -120.4062798252288,48.5978181405068,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Methow</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.0033151225799,48.1276865392373,0 -120.0038086937984,48.12878594684398,0 -120.0048567451404,48.12862744042174,0 -120.0057717973889,48.12777458364769,0 -120.0042510430155,48.1274526647878,0 -120.0035742334078,48.1275191789268,0 -120.0029967987989,48.12740355093476,0 -120.0028271197765,48.12689692682234,0 -120.0017171112256,48.12693438892569,0 -120.0019405617579,48.12796352077537,0 -120.0030168701562,48.12755795371637,0 -120.0033151225799,48.1276865392373,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Odessa</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-118.6991920335524,47.32916538847967,0 -118.6955231297783,47.32918019630701,0 -118.6958079461517,47.32984631610054,0 -118.6959150630206,47.33058548203291,0 -118.6990864046583,47.33074828818209,0 -118.6991920335524,47.32916538847967,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Okangn</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.5667591826918,48.36859039262423,0 -119.5620203468108,48.37065726539781,0 -119.5649227764704,48.37207404749437,0 -119.568232199353,48.3693186369369,0 -119.5667591826918,48.36859039262423,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Omak</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.5162476308954,48.40840785853156,0 -119.5159856510557,48.41114199714178,0 -119.5226792569503,48.41109228631227,0 -119.5205435195651,48.40871110285063,0 -119.5162476308954,48.40840785853156,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Orndlz</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.2154514954247,47.64196030291909,0 -120.2158693659205,47.6421502468452,0 -120.2158078937556,47.6424531398761,0 -120.216407081472,47.64256933017415,0 -120.2169697323632,47.64164034369984,0 -120.2158342153208,47.6412726531693,0 -120.2154514954247,47.64196030291909,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Orndlz power lines DNL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.2155286217227,47.64078983644543,0 -120.2144526620572,47.64278797033873,0 -120.214608833023,47.6427825417148,0 -120.2157454995649,47.64087343340673,0 -120.215731798646,47.64088915265583,0 -120.2155286217227,47.64078983644543,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Orondo</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.2280532007843,47.62231828838523,0 -120.2271303912447,47.62234508535497,0 -120.2271208341303,47.62188233790157,0 -120.225428857176,47.62197830657682,0 -120.2254517555659,47.62304622738821,0 -120.2279852444211,47.6231054296526,0 -120.2280532007843,47.62231828838523,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Orondo power lines DNL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.2277489805561,47.62396365715312,0 -120.2280872589315,47.62310004742811,0 -120.2281683197385,47.62161327717533,0 -120.2280909347143,47.62161255100937,0 -120.2280170550593,47.62308524173363,0 -120.2276855947986,47.62396332492366,0 -120.2277489805561,47.62396365715312,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Orovil</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.4405733277712,48.93544084797283,0 -119.4413375620803,48.93434610216163,0 -119.4408250024161,48.93289235683005,0 -119.4396784667071,48.93303159137655,0 -119.439870455989,48.9356641055338,0 -119.4405733277712,48.93544084797283,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Palous</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-117.0714809903833,46.9146380364655,0 -117.0706395325083,46.91458682037486,0 -117.070522223581,46.91555523164128,0 -117.0712752316412,46.91562585276849,0 -117.0714809903833,46.9146380364655,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Palous power lines DNL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-117.070562298467,46.91572060004156,0 -117.0705169247378,46.91458824245397,0 -117.0704713556298,46.91459368546668,0 -117.0705175074952,46.91570707734724,0 -117.070562298467,46.91572060004156,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Patero</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.8819861092279,48.06263659096707,0 -119.8825155798512,48.06325045303963,0 -119.8836817624488,48.06305262893624,0 -119.8855022355516,48.06239131144557,0 -119.8855813100203,48.06188904189636,0 -119.8850867005725,48.06137301658739,0 -119.8819861092279,48.06263659096707,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Quinlz</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.8447622328159,47.25004287668526,0 -119.844909947158,47.25139135552932,0 -119.8463981617087,47.25146282965062,0 -119.8462630028961,47.25003025526291,0 -119.8447622328159,47.25004287668526,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sandlz</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.1279955015469,47.77057779884078,0 -120.1269573721551,47.77061652488324,0 -120.1270083651227,47.77082813070271,0 -120.1280385257522,47.77083867883272,0 -120.1279955015469,47.77057779884078,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Smokej</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.0890625015541,48.34866713414189,0 -120.0884136066922,48.34927474208872,0 -120.0988892173007,48.35291850823643,0 -120.0995178009044,48.35074270896633,0 -120.099072605174,48.34977022550459,0 -120.096166114441,48.34892930252155,0 -120.0890625015541,48.34866713414189,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Snglpk</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.1429971980073,47.87822519410496,0 -120.1422967293973,47.87808871614681,0 -120.1423502746114,47.87940896757196,0 -120.1429994011159,47.87950894413324,0 -120.1429971980073,47.87822519410496,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Soccer</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.9851192579959,47.79827975321087,0 -119.9848058899615,47.79872926737486,0 -119.9844736362355,47.79871583173242,0 -119.9832186499989,47.80052233556561,0 -119.9840634926038,47.80074998596737,0 -119.9855598015755,47.79836487970203,0 -119.9851192579959,47.79827975321087,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>StJohn</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-117.588369905161,47.08736700250029,0 -117.5876465014722,47.08738550139423,0 -117.5873109916513,47.08763899685731,0 -117.5873408375088,47.08842801049738,0 -117.5884150902051,47.08840412950686,0 -117.588369905161,47.08736700250029,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>StJohn power lines DNL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-117.5871650794774,47.0890088531879,0 -117.587113917726,47.08732436808813,0 -117.5870111671178,47.08731753139718,0 -117.587070856766,47.08899295838113,0 -117.5871650794774,47.0890088531879,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sunclz</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.168860234478,47.76215971381055,0 -120.1677118796194,47.76287212545577,0 -120.167936999927,47.76313623555031,0 -120.1681433367285,47.76369811768642,0 -120.1688997945246,47.76355193542533,0 -120.168860234478,47.76215971381055,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Swanas</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.0927306082622,47.91468561295675,0 -120.0954183813659,47.91472095092667,0 -120.0956446341845,47.91062585412448,0 -120.0925833554759,47.91066653275256,0 -120.0927306082622,47.91468561295675,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Tonaap</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.4640230230446,48.72080830145155,0 -119.4629015873528,48.72109325590438,0 -119.4667612792755,48.72896050344794,0 -119.4682530268241,48.72874729120602,0 -119.4640230230446,48.72080830145155,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Volcmp</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.9823436893418,47.83695393827482,0 -119.9825428444758,47.83670210642595,0 -119.9820634581633,47.83667765038273,0 -119.9820485488441,47.83637830775913,0 -119.9826517890117,47.83610459752553,0 -119.9831530573318,47.8360665744292,0 -119.98320346928,47.83588514926968,0 -119.9818661965521,47.83589446029702,0 -119.9809893905751,47.83671325654518,0 -119.9811893888239,47.83695184976575,0 -119.9823436893418,47.83695393827482,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Volcmp power lines 1 DNL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.97992206355,47.83757650168209,0 -119.979990152342,47.83566554846282,0 -119.9799159432158,47.83567035596705,0 -119.9798427468536,47.83756288965061,0 -119.97992206355,47.83757650168209,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Volcmp power lines 2 DNL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.9833425785908,47.83569657487996,0 -119.982938802649,47.83670757853524,0 -119.9830207651468,47.83669459886814,0 -119.9833749478941,47.83569943648056,0 -119.9833425785908,47.83569657487996,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Walmlz</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.9968571529363,47.84203709141163,0 -119.9959546351905,47.84193708388799,0 -119.9951871591971,47.84257766575478,0 -119.9952658622599,47.84356805275444,0 -119.9969956511742,47.84354081465834,0 -119.9968571529363,47.84203709141163,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Wapass</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.6618370983131,48.52533422992242,0 -120.6572631813959,48.52520904438342,0 -120.6565068646737,48.52647518374766,0 -120.6597624876567,48.52660070090595,0 -120.6618370983131,48.52533422992242,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Waterv</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.0654424459995,47.65334779045403,0 -120.0631633939968,47.6533807503929,0 -120.0630494013961,47.65553724747276,0 -120.0584870374024,47.65556761966079,0 -120.0585231996264,47.65234157550243,0 -120.0528160738226,47.65216997726406,0 -120.0529921691772,47.65407211295761,0 -120.0505979421489,47.65491504318388,0 -120.050385680455,47.65619825363093,0 -120.0653552114112,47.65623321548025,0 -120.0654424459995,47.65334779045403,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Wilblz</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-118.714544574,47.76575795427959,0 -118.7158210135602,47.7668070404627,0 -118.717108740556,47.76609810190217,0 -118.7150317243581,47.76508997569265,0 -118.714544574,47.76575795427959,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Wilbur</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-118.7404681503794,47.75786531074928,0 -118.7493562790493,47.74974667493028,0 -118.7479935900033,47.74902799805879,0 -118.7386959682503,47.75735374033745,0 -118.7404681503794,47.75786531074928,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Winthr</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.1841661719823,48.47358611426056,0 -120.184112799882,48.47318464005825,0 -120.1850904727687,48.4726790870336,0 -120.1860635476976,48.47332364037995,0 -120.1872286764057,48.47292972199067,0 -120.1865974784903,48.47206102133794,0 -120.1857665799874,48.47176404965874,0 -120.1840147202148,48.47168176443594,0 -120.1826128453857,48.47220273981127,0 -120.1817096906749,48.47323630345995,0 -120.1816203814998,48.47363209120733,0 -120.1805551009343,48.4736848466808,0 -120.1799969640481,48.47404141027194,0 -120.1812520387832,48.47449670900036,0 -120.1840421170768,48.47484719261858,0 -120.1848300790176,48.47391581278622,0 -120.1841661719823,48.47358611426056,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Withrw</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.8129386863913,47.70009416152452,0 -119.8073260469712,47.7001953472383,0 -119.8079625053375,47.70320485232448,0 -119.8100210918779,47.702161578658,0 -119.8107471087815,47.70261110657659,0 -119.8131859331417,47.70147686546633,0 -119.8129386863913,47.70009416152452,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Withrw power lines DNL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.8089248499893,47.70324179053025,0 -119.80864813168,47.70290670490734,0 -119.8079518630557,47.70325549064748,0 -119.8085479229147,47.70387051154954,0 -119.8085950766794,47.70383827330426,0 -119.8080226435071,47.70326449415884,0 -119.8086125748572,47.70295964095351,0 -119.8088626865032,47.70324465436016,0 -119.8089248499893,47.70324179053025,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
