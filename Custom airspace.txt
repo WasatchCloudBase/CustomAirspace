@@ -2,13 +2,15 @@
 *
 * Contents:
 * Location   	LZ/DNL areas	     		    Thermal hot spots
-* ------------ 	------------------------------	-------------------
-* Utah       	Yes                  		    5/5/2024 extract from https://thermal.kk7.ch
+* ------------ 	------------------------------	----------------------------------------------
+* Utah       	Yes                  		    05/05/2024 extract from https://thermal.kk7.ch
 * Oregon     	Yes (2022 file)	     		    No
 * Colorado   	Yes (6/8/2022 file)  		    No
 * Santa Barbara	Yes (2022 file)     		    No
-* Chelan, Wa	Yes (2024 Open pilot handbook)  5/5/2024 extract from https://thermal.kk7.ch
+* Chelan, Wa	Yes (2024 Open pilot handbook)  05/05/2024 extract from https://thermal.kk7.ch
 * Valle DB, MX  No                              10/18/2024 extract from https://thermal.kk7.ch
+*               05/05/2025 restricted airspaces from https://www.monarcaopen.com/files/Airspace2024.txt
+*
 *
 * Airspace designations in this file:
 *   Code  Type   			 	Usage in this file		Color to set in FlySkyHy
