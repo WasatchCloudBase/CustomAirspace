@@ -8,6 +8,10 @@ The custom airspace is used to identify:
 
 See the header for the custom airspace text file for info on updating FlySkyHy airspace settings.
 
+FlySkyHy limitations:
+  - Only one custom airspace file can be loaded at a time
+  - The custom airspace file can only include 999 airspace objects
+
 # Development Information
 This script was developed in Microsoft Visual Studio Code on Windows using Python 3.10.11 
 (although the script is pretty basic; any recent version of Python is likely to work fine).
