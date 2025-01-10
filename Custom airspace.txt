@@ -1,25 +1,23 @@
 * Custom airspace file for FlySkyHy
 *
 * Contents:
-* Location   	LZ/DNL areas	     		    Thermal hot spots
-* ------------ 	------------------------------	----------------------------------------------
-* Utah       	Yes                  		    05/05/2024 extract from https://thermal.kk7.ch
+* Location   	LZ/DNL areas	     		    Thermal hot spots                                 Airspace restrictions
+* ------------ 	------------------------------	------------------------------------------------  ----------------------------------------------------------------------
+* Utah       	Yes                  		    Extract from https://thermal.kk7.ch (05/05/2024)
 * Oregon     	Yes (2022 file)	     		    No
 * Colorado   	Yes (6/8/2022 file)  		    No
 * Santa Barbara	Yes (2022 file)     		    No
-* Chelan, Wa	Yes (2024 Open pilot handbook)  05/05/2024 extract from https://thermal.kk7.ch
-* Valle DB, MX  No                              10/18/2024 extract from https://thermal.kk7.ch
-*               05/05/2025 restricted airspaces from https://www.monarcaopen.com/files/Airspace2024.txt
-*
+* Chelan, Wa	Yes (2024 Open pilot handbook)  Extract from https://thermal.kk7.ch (05/05/2024)
+* Valle dB, MX  Yes (Monarca waypoint LZs)      Extract from https://thermal.kk7.ch (10/18/2024)  Yes (https://www.monarcaopen.com/files/Airspace2024.txt 05/05/2025)
 *
 * Airspace designations in this file:
-*   Code  Type   			 	Usage in this file		Color to set in FlySkyHy
+*   Code  Type                                  Usage in this file              Color to set in FlySkyHy
 *   ----  ------------------------------------  ------------------------------  ------------------------
-*   W     Warning (‘Only Gliders’ in FlySkyHy)  Landing Zones			Green
-*   R 	  Restricted				Do Not Land areas 		Red
-*   SRZ   Special				Seasonal raptor clsoure areas 	Yellow
-*   AWY	  Airway				Thermal hot spot - higher %	Medium orange
-*   TMZ   Transponder				Thermal hot spot - lower %	Light orange 
+*   W     Warning (‘Only Gliders’ in FlySkyHy)  Landing Zones                   Green
+*   R 	  Restricted                            Do Not Land areas               Red
+*   SRZ   Special                               Seasonal raptor clsoure areas   Yellow
+*   AWY	  Airway                                Thermal hot spot - higher %     Medium orange
+*   TMZ   Transponder                           Thermal hot spot - lower %      Light orange 
 *
 * Also highly recommend turning off all warnings, alarms, and alerts in FlySkyHy for the airspaces listed above.
 *
@@ -9704,7 +9702,6 @@ AH 10000
 V X=19:08:42.57 N 100:04:29.17 W
 DC 0.62
 *
-*
 AC R
 AN DNL - Federal Navy (Marina) Property
 AL SFC
@@ -9717,6 +9714,118 @@ DP 19.11688287956028 N 100.0673212784688 W
 *
 *
 ********************************************
-* Current end of file
+* Valle de Bravo LZs (from Monarca 2025 waypoint file)
 ********************************************
+*
+*
+AC W
+AN VDB LZ A01
+AL SFC
+AH SFC
+V X=19.042667 N 100.1045 W
+DC 0.1
+*
+AC W
+AN VDB LZ A02
+AL SFC
+AH SFC
+V X=19.087833 N 100.07333 W
+DC 0.1
+*
+AC W
+AN VDB LZ A03
+AL SFC
+AH SFC
+V X=19.254167 N 100.023667 W
+DC 0.1
+*
+AC W
+AN VDB LZ A04
+AL SFC
+AH SFC
+V X=19.443 N 99.982333 W
+DC 0.1
+*
+AC W
+AN VDB LZ A06
+AL SFC
+AH SFC
+V X=18.866 N 99.738833 W
+DC 0.1
+*
+AC W
+AN VDB LZ A07
+AL SFC
+AH SFC
+V X=19.320167 N 100.2795 W
+DC 0.1
+*
+AC W
+AN VDB LZ A10
+AL SFC
+AH SFC
+V X=19.1535 N 99.905333 W
+DC 0.1
+*
+AC W
+AN VDB LZ A11
+AL SFC
+AH SFC
+V X=19.167 N 99.88066700000002 W
+DC 0.1
+*
+AC W
+AN VDB LZ A12
+AL SFC
+AH SFC
+V X=19.117167 N 99.88716700000001 W
+DC 0.1
+*
+AC W
+AN VDB LZ A13
+AL SFC
+AH SFC
+V X=19.024,2897 N 99.909667 W
+DC 0.1
+*
+AC W
+AN VDB LZ A15
+AL SFC
+AH SFC
+V X=19.106667 N 99.841667 W
+DC 0.1
+*
+AC W
+AN VDB LZ A16
+AL SFC
+AH SFC
+V X=19.158833 N 99.7985 W
+DC 0.1
+*
+AC W
+AN VDB LZ A20
+AL SFC
+AH SFC
+V X=19.1835 N 100.127833 W
+DC 0.1
+*
+AC W
+AN VDB LZ A21
+AL SFC
+AH SFC
+V X=19.222333 N 100.136667 W
+DC 0.1
+*
+AC W
+AN VDB LZ A30
+AL SFC
+AH SFC
+V X=19.140833 N 100.039833 W
+DC 0.1
+*
+*
+********************************************
+* End of file
+********************************************
+*
 *
