@@ -10,7 +10,6 @@ See the header for the custom airspace text file for info on updating FlySkyHy a
 
 FlySkyHy limitations:
   - Only one custom airspace file can be loaded at a time
-  - The custom airspace file can only include 999 airspace objects
 
 # Development Information
 This script was developed in Microsoft Visual Studio Code on Windows using Python 3.10.11 
